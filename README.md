@@ -4,7 +4,7 @@
 
 :heart: I write 💼 applications in React 
 
-:octocat: I use my account to learn about new technologies in my :cat2: spare time
+:octocat: I use my account to learn about/try new technologies in my :cat2: spare time
 
 :seedling: In 2022 learning :books: a backend on Next.js | Node.js | Express | Nest 
 
