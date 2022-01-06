@@ -2,9 +2,11 @@
 
 ## I'm Frontend Developer
 
-:heart: I write applications in React
+:heart: I write 💼 applications in React 
 
-:books: In 2022 learning a backend on Next.js | Node.js | Express | Nest
+:octocat: I use my account to learn about new technologies in my :cat2: spare time
+
+:seedling: In 2022 learning :books: a backend on Next.js | Node.js | Express | Nest 
 
 ### Languages and Tools:
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
