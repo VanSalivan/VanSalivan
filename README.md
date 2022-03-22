@@ -28,5 +28,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanSalivan&theme=dark&hide=jupyter%20notebook,php,vue,html,css,go&langs_count=8&layout=compact)](https://github.com/VanSalivan/)
 
 ### Connect with me:
-[![Instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram)](https://github.com/VanSalivan)
 [![LinkedIn](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin)](https://github.com/VanSalivan)
