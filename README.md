@@ -1,12 +1,10 @@
 ### Hi there 👋, I'm Alexander
 
-## I'm Frontend Developer
+## I'm Lead Frontend Developer
 
 :heart: I write 💼 applications in React 
 
 :octocat: I use my account to learn about/try new technologies in my :cat2: spare time
-
-:seedling: In 2022 learning :books: a backend on Next.js | Node.js | Express | Nest 
 
 ### Languages and Tools:
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
